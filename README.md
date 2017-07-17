@@ -1,4 +1,4 @@
-# theretailapocalypse.com (Final Project)
+# the-retail-apocalypse.com (Final Project)
 ## Description
 Create a website that will list all US retails stores that have closed in 2017
 
